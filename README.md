@@ -1,2 +1,3 @@
-# ApiCatalogoJogos
-Este projeto foi desenvolvido para exemplificar a estrutura de uma API Rest. Ela será utilizada para auxiliar a live que apresentarei na DIO.
+# Digital Innovation One - Api Catalogo de Jogos
+Este projeto foi desenvolvido para construir uma arquitetura base para uma aplicação API Rest .Net, orientado pelo especialista Tiago Campos.
+
